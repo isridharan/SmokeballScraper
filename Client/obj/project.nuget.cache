@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+V5Z5v+gEJl1XnL9ctq12YOe0Lc3aOzx1n9vlgRXj14XaRQds9FG1DETvC5BvjFbs5ZgateMGtBHrjEjwI5v5Q==",
+  "dgSpecHash": "m9cq+2GVI+WQifraavmohCSHkgS0YMjzK3tE21WgRln+rPSqlQIIALj9gsd1mSoWdTwKT/3ZFsnTKlV64aLv8Q==",
   "success": true,
-  "projectFilePath": "D:\\Test Projects\\SmokeballScrapper\\Client\\Client.csproj",
+  "projectFilePath": "D:\\Test Projects\\SmokeballScraper\\Client\\Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\u1177362\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\u1177362\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",

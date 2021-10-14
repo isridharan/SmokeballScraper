@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Test Projects\\SmokeballScrapper\\Common\\Common.csproj",
+      "projectUniqueName": "D:\\Test Projects\\SmokeballScraper\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "D:\\Test Projects\\SmokeballScrapper\\Common\\Common.csproj",
+      "projectPath": "D:\\Test Projects\\SmokeballScraper\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\u1177362\\.nuget\\packages\\",
-      "outputPath": "D:\\Test Projects\\SmokeballScrapper\\Common\\obj\\",
+      "outputPath": "D:\\Test Projects\\SmokeballScraper\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\u1177362\\AppData\\Roaming\\NuGet\\NuGet.Config",

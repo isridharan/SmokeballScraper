@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Test Projects\\SmokeballScrapper\\Client\\Client.csproj": {}
+    "D:\\Test Projects\\SmokeballScraper\\Client\\Client.csproj": {}
   },
   "projects": {
-    "D:\\Test Projects\\SmokeballScrapper\\Client\\Client.csproj": {
+    "D:\\Test Projects\\SmokeballScraper\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test Projects\\SmokeballScrapper\\Client\\Client.csproj",
+        "projectUniqueName": "D:\\Test Projects\\SmokeballScraper\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "D:\\Test Projects\\SmokeballScrapper\\Client\\Client.csproj",
+        "projectPath": "D:\\Test Projects\\SmokeballScraper\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\u1177362\\.nuget\\packages\\",
-        "outputPath": "D:\\Test Projects\\SmokeballScrapper\\Client\\obj\\",
+        "outputPath": "D:\\Test Projects\\SmokeballScraper\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\u1177362\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Test Projects\\SmokeballScrapper\\Common\\Common.csproj": {
-                "projectPath": "D:\\Test Projects\\SmokeballScrapper\\Common\\Common.csproj"
+              "D:\\Test Projects\\SmokeballScraper\\Common\\Common.csproj": {
+                "projectPath": "D:\\Test Projects\\SmokeballScraper\\Common\\Common.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "D:\\Test Projects\\SmokeballScrapper\\Common\\Common.csproj": {
+    "D:\\Test Projects\\SmokeballScraper\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test Projects\\SmokeballScrapper\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\Test Projects\\SmokeballScraper\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\Test Projects\\SmokeballScrapper\\Common\\Common.csproj",
+        "projectPath": "D:\\Test Projects\\SmokeballScraper\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\u1177362\\.nuget\\packages\\",
-        "outputPath": "D:\\Test Projects\\SmokeballScrapper\\Common\\obj\\",
+        "outputPath": "D:\\Test Projects\\SmokeballScraper\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\u1177362\\AppData\\Roaming\\NuGet\\NuGet.Config",

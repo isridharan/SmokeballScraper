@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/UrJOUWMsXIEkQD+6nzUfGh8/m7ZLO8Gj73I/9/xcVgorrIGe4nl2LP+yY9Y1OH7QSlRWF9FxDU0kY+XDJKaKg==",
+  "dgSpecHash": "uUaBKmzUPMqUmAQolWA4uyWQ+6czpl/hvi9A6pLd42V5oU3ML9iN0KakY/c0J1P5FKp9QoUS/xxcBDnjqY2BWQ==",
   "success": true,
-  "projectFilePath": "D:\\Test Projects\\SmokeballScrapper\\Common\\Common.csproj",
+  "projectFilePath": "D:\\Test Projects\\SmokeballScraper\\Common\\Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

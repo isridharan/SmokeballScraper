@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Test Projects\\SmokeballScrapper\\UI\\UI.csproj",
+      "projectUniqueName": "D:\\Test Projects\\SmokeballScraper\\UI\\UI.csproj",
       "projectName": "UI",
-      "projectPath": "D:\\Test Projects\\SmokeballScrapper\\UI\\UI.csproj",
+      "projectPath": "D:\\Test Projects\\SmokeballScraper\\UI\\UI.csproj",
       "packagesPath": "C:\\Users\\u1177362\\.nuget\\packages\\",
-      "outputPath": "D:\\Test Projects\\SmokeballScrapper\\UI\\obj\\",
+      "outputPath": "D:\\Test Projects\\SmokeballScraper\\UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\u1177362\\AppData\\Roaming\\NuGet\\NuGet.Config",

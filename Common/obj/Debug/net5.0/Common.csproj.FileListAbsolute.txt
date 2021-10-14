@@ -9,3 +9,16 @@ D:\Test Projects\SmokeballScrapper\Common\obj\Debug\net5.0\Common.csproj.CoreCom
 D:\Test Projects\SmokeballScrapper\Common\obj\Debug\net5.0\Common.dll
 D:\Test Projects\SmokeballScrapper\Common\obj\Debug\net5.0\ref\Common.dll
 D:\Test Projects\SmokeballScrapper\Common\obj\Debug\net5.0\Common.pdb
+D:\Test Projects\SmokeballScrapper\Common\obj\Debug\net5.0\Common.csproj.AssemblyReference.cache
+D:\Test Projects\SmokeballScraper\Common\bin\Debug\net5.0\Common.deps.json
+D:\Test Projects\SmokeballScraper\Common\bin\Debug\net5.0\Common.dll
+D:\Test Projects\SmokeballScraper\Common\bin\Debug\net5.0\ref\Common.dll
+D:\Test Projects\SmokeballScraper\Common\bin\Debug\net5.0\Common.pdb
+D:\Test Projects\SmokeballScraper\Common\obj\Debug\net5.0\Common.csproj.AssemblyReference.cache
+D:\Test Projects\SmokeballScraper\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\SmokeballScraper\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+D:\Test Projects\SmokeballScraper\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+D:\Test Projects\SmokeballScraper\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+D:\Test Projects\SmokeballScraper\Common\obj\Debug\net5.0\Common.dll
+D:\Test Projects\SmokeballScraper\Common\obj\Debug\net5.0\ref\Common.dll
+D:\Test Projects\SmokeballScraper\Common\obj\Debug\net5.0\Common.pdb

@@ -144,11 +144,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Test Projects\\SmokeballScrapper\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\Test Projects\\SmokeballScraper\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Test Projects\\SmokeballScrapper\\Domain\\Domain.csproj",
+      "projectPath": "D:\\Test Projects\\SmokeballScraper\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\u1177362\\.nuget\\packages\\",
-      "outputPath": "D:\\Test Projects\\SmokeballScrapper\\Domain\\obj\\",
+      "outputPath": "D:\\Test Projects\\SmokeballScraper\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\u1177362\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,8 +166,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Test Projects\\SmokeballScrapper\\Client\\Client.csproj": {
-              "projectPath": "D:\\Test Projects\\SmokeballScrapper\\Client\\Client.csproj"
+            "D:\\Test Projects\\SmokeballScraper\\Client\\Client.csproj": {
+              "projectPath": "D:\\Test Projects\\SmokeballScraper\\Client\\Client.csproj"
             }
           }
         }

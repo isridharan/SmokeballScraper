@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NxuAcTrHv8webbg9iko9vc0DzYbppO3jPrQH7v252ywqjnj1pH/ANZEU/Ls/rNAJ+oJ3vnSxu8tiF3m+k8yA7w==",
+  "dgSpecHash": "aZFZWGtDWjntCOxuZzWbFpg6USGLRmLooOpu0iM+RGjepcekuDv27RRtpUMNNDyHllmyR5JaGfss2/Kow5j0Gg==",
   "success": true,
-  "projectFilePath": "D:\\Test Projects\\SmokeballScrapper\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "D:\\Test Projects\\SmokeballScraper\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\u1177362\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\u1177362\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

@@ -23,12 +23,12 @@ namespace Domain.Query.Handler
         public async Task<SearchMatchResponse> HandleAsync(SearchMatchQuery query)
         {
             // vaidation of input is encapsulated here
-            ScrapperRequest request = new(query.SearchInput, query.NumberOfRows);
+            ScraperRequest request = new(query.SearchInput, query.NumberOfRows);
             // client request is created.
             ClientRequest clientRequest = new(request.QueryString);
             string content = await _scraperClient.GetContentAsync(clientRequest);
             // scrapping logic is encapsulated inside
-            Scrapper scrapper = new(query.Url, content);
+            Scraper scrapper = new(query.Url, content);
             return new SearchMatchResponse(scrapper.GetCountOfMatches());
         }
     }

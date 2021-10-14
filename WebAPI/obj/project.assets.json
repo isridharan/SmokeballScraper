@@ -344,11 +344,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Test Projects\\SmokeballScrapper\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "D:\\Test Projects\\SmokeballScraper\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "D:\\Test Projects\\SmokeballScrapper\\WebAPI\\WebAPI.csproj",
+      "projectPath": "D:\\Test Projects\\SmokeballScraper\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\u1177362\\.nuget\\packages\\",
-      "outputPath": "D:\\Test Projects\\SmokeballScrapper\\WebAPI\\obj\\",
+      "outputPath": "D:\\Test Projects\\SmokeballScraper\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\u1177362\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -366,8 +366,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Test Projects\\SmokeballScrapper\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Test Projects\\SmokeballScrapper\\Domain\\Domain.csproj"
+            "D:\\Test Projects\\SmokeballScraper\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Test Projects\\SmokeballScraper\\Domain\\Domain.csproj"
             }
           }
         }
