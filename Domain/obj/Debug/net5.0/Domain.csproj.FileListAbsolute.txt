@@ -1,0 +1,17 @@
+D:\Test Projects\SmokeballScrapper\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\Test Projects\SmokeballScrapper\Domain\bin\Debug\net5.0\Domain.dll
+D:\Test Projects\SmokeballScrapper\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\Test Projects\SmokeballScrapper\Domain\bin\Debug\net5.0\Domain.pdb
+D:\Test Projects\SmokeballScrapper\Domain\bin\Debug\net5.0\Client.dll
+D:\Test Projects\SmokeballScrapper\Domain\bin\Debug\net5.0\Common.dll
+D:\Test Projects\SmokeballScrapper\Domain\bin\Debug\net5.0\Client.pdb
+D:\Test Projects\SmokeballScrapper\Domain\bin\Debug\net5.0\Common.pdb
+D:\Test Projects\SmokeballScrapper\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\Test Projects\SmokeballScrapper\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\SmokeballScrapper\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Test Projects\SmokeballScrapper\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\Test Projects\SmokeballScrapper\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Test Projects\SmokeballScrapper\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+D:\Test Projects\SmokeballScrapper\Domain\obj\Debug\net5.0\Domain.dll
+D:\Test Projects\SmokeballScrapper\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\Test Projects\SmokeballScrapper\Domain\obj\Debug\net5.0\Domain.pdb
